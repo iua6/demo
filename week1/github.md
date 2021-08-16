@@ -8,7 +8,7 @@
 
   ### clonging repo
    - clone the repo using this command:
-      - git clone ``https://<personatoken>@github.com/username/repositorynamee.git``
+      - git clone ``https://<personatoken>@github.com/username/repositoryname.git``
 
   ### Pushing single file to a repository
   -  ``git status``
